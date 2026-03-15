@@ -68,5 +68,4 @@ A detailed breakdown of every SKU to allow category managers to see exactly whic
 * **Forecasting:** Implement a time-series model to predict demand for Star products.
 
 ---
-**Author:** Ziad Diab  
-*Data Analyst Portfolio Project*
+**Author:** Ziad Diab
